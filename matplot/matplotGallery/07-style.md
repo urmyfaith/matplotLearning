@@ -53,7 +53,7 @@ Y=[ 0.          0.09090909  0.18181818  0.27272727  0.36363636  0.45454545
   0.54545455  0.63636364  0.72727273  0.81818182  0.90909091  1.        ]
 
 ###Result
-![style-01.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-01.png)
+![style-01.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-01.png)
 
 ----
 
@@ -101,17 +101,17 @@ for i,w in enumerate(W):
     axes.plot( (1+i)*X, Y, linewidth=w, color='blue')
 ```
 
-![enumerate-help.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/enumerate-help.png)
+![enumerate-help.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/enumerate-help.png)
 
 绘制12条直线,X=1,...X=12
 
 ### Result
 
-![style-02.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-02.png)
+![style-02.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-02.png)
 
 隐藏Y轴刻度,替换X轴标签后的图形
 
-![style-03.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-03.png)
+![style-03.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-03.png)
 
 ----
 
@@ -177,11 +177,11 @@ line.set_dashes((40,5,5,5,5,5,40,5))
 ```
 40划5空格5点5空格5点5空格40划5空格
 
-![help-set-dashes.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/help-set-dashes.png)
+![help-set-dashes.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/help-set-dashes.png)
 
 ###Result
 
-![style-04.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-04.png)
+![style-04.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-04.png)
 
 ---
 
@@ -219,7 +219,7 @@ plt.show()
 
 ### Result
 
-![style-05.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-05.png)
+![style-05.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-05.png)
 
 ---
 
@@ -263,12 +263,12 @@ plt.show()
                markersize = 13, marker='x',
                markeredgecolor = '0.10', markerfacecolor = '0.75')
 ```
-![help-markers.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/help-markers.png)
+![help-markers.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/help-markers.png)
 
 标记的大小,类型,边缘颜色,前景色
 
 ### Resutl
-![style-markers.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-markers.png)
+![style-markers.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-markers.png)
 
 ----
 ## 6. 柱状图及其填充
@@ -308,17 +308,17 @@ plt.show()
 ```python
 axes.bar( .5+i, 1, hatch=pattern, color='white', edgecolor='blue',)
 ```
-![help-bar-01.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/help-bar-01.png)
-![help-bar-02.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/help-bar-02.png)
+![help-bar-01.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/help-bar-01.png)
+![help-bar-02.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/help-bar-02.png)
 
 hatch,柱状图的填充:
-![help-set-hatch.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/help-set-hatch.png)
+![help-set-hatch.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/help-set-hatch.png)
 
 ### Result
 
-![style-bar.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-bar.png)
+![style-bar.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-bar.png)
 
-![style-bar-hatch.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/style-bar-hatch.png)
+![style-bar-hatch.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/style-bar-hatch.png)
 
 
 

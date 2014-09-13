@@ -52,10 +52,10 @@ x轴位置:底部
 
 左: (Y轴)数据值为X最小的地方
 
-![spines-set-position](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/spines-set-position.png)
+![spines-set-position](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/spines-set-position.png)
 
 ---
 
 ## Result
-![plot-sin-03](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/plot-sin-03.png)
+![plot-sin-03](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/plot-sin-03.png)
 

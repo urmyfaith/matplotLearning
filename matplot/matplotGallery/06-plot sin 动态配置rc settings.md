@@ -43,9 +43,9 @@ plt.show()
 ```
 ## Keypoints
 > matplotlib.rc('axes', facecolor = 'grey')
-![rc-settings.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/rc-settings.png)
+![rc-settings.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/rc-settings.png)
 
 ## Result
-![rc-settings-result.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/rc-settings-result.png)
+![rc-settings-result.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/rc-settings-result.png)
 
 

@@ -38,24 +38,24 @@ plt.show()
 **axes.set_xticks([])**
 **axes.set_yticks([])**
 设置X,Y坐标轴点刻度为空
-![set_xticks](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/set-xticks.png)
+![set_xticks](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/set-xticks.png)
 
 ## Result
-![set-xticks-01.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/set-xticks-01.png)
+![set-xticks-01.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/set-xticks-01.png)
 
 ## More
 自定义刻度
 ```python 
  axes.set_xticks([-3,-2,-1,0,1,2,3])
 ```
-![set-xticks-02.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/set-xticks-02.png)
+![set-xticks-02.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/set-xticks-02.png)
 
 ---
 自定义刻度
 ```python
 axes.set_xticks([0., .5*np.pi, np.pi, 1.5*np.pi, 2*np.pi])
 ```
-![set-xticks-03.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/set-xticks-03.png)
+![set-xticks-03.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/set-xticks-03.png)
 
 ---
 自定义刻度
@@ -63,7 +63,7 @@ axes.set_xticks([0., .5*np.pi, np.pi, 1.5*np.pi, 2*np.pi])
 axes.set_xticks([0., .5*np.pi, np.pi)
 axes.set_xticklabels(["0", r"$\frac{1}{2}\pi$",r"$\pi$"])
 ```
-![set-xticks-04.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/set-xticks-04.png)
+![set-xticks-04.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/set-xticks-04.png)
 
 ---
 隐藏坐标轴
@@ -75,6 +75,6 @@ axes.spines['top'].set_color('none')
 axes.spines['bottom'].set_color('none')
 axes.spines['left'].set_color('none')
 ```
-![set-xticks-05.png](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/set-xticks-05.png)
+![set-xticks-05.png](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/set-xticks-05.png)
 
 

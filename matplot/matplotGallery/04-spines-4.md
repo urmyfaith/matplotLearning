@@ -44,4 +44,4 @@ Y轴居中
 ---
 ## Result
 
-![plot-sin-04](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/plot-sin-04.png)
+![plot-sin-04](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/plot-sin-04.png)

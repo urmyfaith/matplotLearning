@@ -60,5 +60,5 @@ x轴的位置:上,下
 y轴的位置:左,右.
 
 ## result
-![plot_sin](https://raw.githubusercontent.com/urmyfaith/urmyfaith.github.io/master/matplot/matplotGallery/images/plot-sin-02.png)
+![plot_sin](https://raw.githubusercontent.com/urmyfaith/matplotLearning/master/matplot/matplotGallery/images/plot-sin-02.png)
 
